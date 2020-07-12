@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QoldPlayerFinally</string>
+    <string name="track_example">Artist - Title(feat. xxx)</string>
+    <string name="time_example">00:00</string>
+    <string name="playlist_example">Playlist</string>
+    <string name="artist_example">Artist</string>
+    <string name="title_example">Title</string>
+    <string name="standard_list_flag">stdList</string>
+    <string name="create_playlist">Add new playlist</string>
+</resources>
